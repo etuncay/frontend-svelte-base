@@ -1,5 +1,4 @@
 <script>
-
     let NavItems = [
         {
             icon: 'home',
@@ -83,7 +82,7 @@
                 <a class="nav-link dropdown-toggle" href="#navbar-base" data-bs-toggle="dropdown" role="button"
                    aria-expanded="false">
                     <span class="nav-link-icon d-md-none d-lg-inline-block">
-                        <img style="max-width: 75%;    opacity: 0.5;" src="./dist/img/feather-icons/{icon}.svg">
+                        <img style="max-width:75%;opacity: 0.5;" src="./dist/img/feather-icons/{icon}.svg" />
                     </span>
                     <span class="nav-link-title">{title}</span>
                 </a>
